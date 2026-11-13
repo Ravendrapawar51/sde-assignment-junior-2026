@@ -4,8 +4,6 @@ __pycache__/
 .env
 *.db
 *.sqlite*
-data/
 data_large/
-reports/
 final_state.csv
 .pytest_cache/
